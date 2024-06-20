@@ -16,7 +16,7 @@ body {
     font-family: "Poppins", sans-serif;
 }
 .content {
-    background-image: url(/images/bg-intro-desktop.png);
+    background-image: url(./images/bg-intro-desktop.png);
     background-color: var(--Red);
     min-height: 100vh;
 }
